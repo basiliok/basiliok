@@ -1,4 +1,4 @@
-- :heavy_check_mark: [kevinbasilio.com](https://kevinbasilio.com) (Mi portafolio, aunque desactualizado :persevere:)
+- :heavy_check_mark: [kevinbasilio.com](https://kevinbasilio.com) (Mi portafolio web :rocket:)
 - :heavy_check_mark: [basic-counter.com](https://basic-counter.com) (proyecto privado :zipper_mouth_face:)
 - :green_square: [wordz.my](https://wordz.my) :hammer: (proyecto secreto :skull_and_crossbones:)
 - :green_square: [linkk.my](https://linkk.my/) :hammer: (mis páginas :eyes:)
