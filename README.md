@@ -1,10 +1,8 @@
-- :heavy_check_mark: [kevinbasilio.com](https://kevinbasilio.com) (Mi portafolio web :rocket:)
-- :heavy_check_mark: [blurlink.com](https://blurlink.com) (personal link manager :link:)
-- :heavy_check_mark: [basic-counter.com](https://basic-counter.com) (proyecto privado :zipper_mouth_face:)
-- :heavy_check_mark: [demo.kevinbasilio.com](https://demo.kevinbasilio.com/) :hammer: (mis páginas :eyes:)
-- :green_square: [wordz.my](https://wordz.my) :hammer: (proyecto secreto :skull_and_crossbones:)
-- :green_square: [puppynote.com](https://puppynote.com/) :hammer:
+:wave: Hola, soy **Kevin Basilio**, desarrollador Full Stack en Lima, Perú. Mi stack principal es Node.js, NestJS, React y Azure, y también he desarrollado proyectos con Angular, Java (Spring Boot) y Python.
+
+- [kevinbasilio.com](https://kevinbasilio.com) — Mi portafolio web: experiencia y proyectos. (Angular, Azure)
+- [blurlink.com](https://blurlink.com) — Gestor de links con grupos personalizados, en desarrollo. (React, Node.js, Azure Functions, Cosmos DB)
+- [basic-counter.com](https://basic-counter.com) — Herramienta para contar caracteres y buscar o reemplazar palabras. (Angular, Azure)
+- [demo.kevinbasilio.com](https://demo.kevinbasilio.com/) — Demo de una app para guardar links en secciones. (Angular, Azure)
 
 :email: correo de contacto : paledot01@gmail.com
-
-![Mi setup](assets/desk-setup.webp)
