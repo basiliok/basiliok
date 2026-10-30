@@ -5,5 +5,3 @@
 - [basic-counter.com](https://basic-counter.com) (2023) — Herramienta para contar caracteres y buscar o reemplazar palabras. (Angular, Azure)
 - [kevinbasilio.com](https://kevinbasilio.com) (2023) — Mi portafolio web: experiencia y proyectos. (Angular, Azure)
 - [Shoes for Men](https://github.com/basiliok/Sistema_Ventas_JavaSE_MySQL) (2022) — Sistema de ventas de escritorio para una tienda de calzado. Proyecto personal, no académico, que desarrollé mientras estudiaba. (Java, MySQL)
-
-:email: correo de contacto : paledot01@gmail.com
