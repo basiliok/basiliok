@@ -6,3 +6,5 @@
 - :green_square: [puppynote.com](https://puppynote.com/) :hammer:
 
 :email: correo de contacto : paledot01@gmail.com
+
+![Mi setup](assets/desk-setup.webp)
